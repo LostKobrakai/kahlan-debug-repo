@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "crysalead/kahlan": "~1.2"
+    },
+    "require": {
+        "league/period": "~3.0"
+    }
+}
